@@ -2,5 +2,6 @@
 <servers>
     <server name="Production" url="https://login.salesforce.com" />
     <server name="Sandbox" url="https://test.salesforce.com" />
-     <server name="Dreamstore" url="https://dreamstore-developer-edition.eu32.force.com/s" />
+     <server name="Dreamstore" url="https://dreamstore-developer-edition.eu32.force.com" />
+
 </servers>
